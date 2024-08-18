@@ -1,0 +1,1 @@
+#declare a function and an object
