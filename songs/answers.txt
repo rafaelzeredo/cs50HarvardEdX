@@ -1,0 +1,3 @@
+Answer1: According to the description of how the algorithm works, because the data provided is from 2018, their audio aura would be only aplicable to the following year, 2019. I suppose we have to find the two most prominent moods by getting the average energy, valence, and danceability of that person’s top 100 songs from 2018.
+
+Answer2: By doing the same equation but filtering everything by genre first. I'd find the 7 genres the person likes the most and only take into consideration the 100 top listened to songs of those genres for the past year.
